@@ -1,7 +1,7 @@
 '''
 Created on Jul 24, 2015
 
-@author: SuperUser
+@author: Tim 
 '''
 
 import random
